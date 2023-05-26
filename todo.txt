@@ -1,0 +1,16 @@
+meno/zero dropout
+pesi cambiati
+
+data augmentation (?)
+
+focal loss (STUDIA)
+con stessi pesi della cross entropy
+
+UNET di torch
+
+FOCAL LOSS CONCENTRATI 
+Un livello di output (Unet Binaria)
+
+1) exec con pesi cambiati
+2) UNET torch con BCELOSS (Stessi pesi)
+3) FOCAL LOSS (stessi pesi)
