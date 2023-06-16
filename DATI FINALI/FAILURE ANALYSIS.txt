@@ -1,0 +1,12 @@
+TRAIN:
+Abudhabi,Bourdeaux
+
+Saclay E,Paris
+FocalvsBCESigmoid-> Dubai,Paris
+
+TEST:
+Montpellier,Las Vegas
+
+Saclay W, Valencia
+
+FocalvsBCESigmoid-> Chongqing,Rio
